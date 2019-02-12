@@ -1,4 +1,4 @@
-# Classification and Detection with Convolutinal Neural Network
+# Classification and Detection with Convolutional Neural Network
 
 SVHN data set is train on 3 different neural networks:
 - the author designed model
